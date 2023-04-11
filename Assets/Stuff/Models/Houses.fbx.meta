@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 1f9030a5de1ce8d4c8be0c3b3187cb67
+timeCreated: 1666026489
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: House00
+    100002: House01
+    100004: House04.002
+    100006: House05
+    100008: House05.001
+    100010: House06
+    100012: House07.001
+    100014: House08.001
+    100016: House09
+    100018: House10
+    100020: House11
+    100022: House12
+    100024: House13
+    100026: House14
+    100028: House15.001
+    100030: House16
+    100032: House17
+    100034: House18
+    100036: House19
+    100038: House20
+    100040: House_Background01
+    100042: House_Background02
+    100044: House_Background03
+    100046: House_Background04.001
+    100048: House_Background05.002
+    100050: House_Background06
+    100052: House_Background07
+    100054: House_Background08
+    100056: //RootNode
+    400000: House00
+    400002: House01
+    400004: House04.002
+    400006: House05
+    400008: House05.001
+    400010: House06
+    400012: House07.001
+    400014: House08.001
+    400016: House09
+    400018: House10
+    400020: House11
+    400022: House12
+    400024: House13
+    400026: House14
+    400028: House15.001
+    400030: House16
+    400032: House17
+    400034: House18
+    400036: House19
+    400038: House20
+    400040: House_Background01
+    400042: House_Background02
+    400044: House_Background03
+    400046: House_Background04.001
+    400048: House_Background05.002
+    400050: House_Background06
+    400052: House_Background07
+    400054: House_Background08
+    400056: //RootNode
+    2300000: House00
+    2300002: House01
+    2300004: House04.002
+    2300006: House05
+    2300008: House05.001
+    2300010: House06
+    2300012: House07.001
+    2300014: House08.001
+    2300016: House09
+    2300018: House10
+    2300020: House11
+    2300022: House12
+    2300024: House13
+    2300026: House14
+    2300028: House15.001
+    2300030: House16
+    2300032: House17
+    2300034: House18
+    2300036: House19
+    2300038: House20
+    2300040: House_Background01
+    2300042: House_Background02
+    2300044: House_Background03
+    2300046: House_Background04.001
+    2300048: House_Background05.002
+    2300050: House_Background06
+    2300052: House_Background07
+    2300054: House_Background08
+    3300000: House00
+    3300002: House01
+    3300004: House04.002
+    3300006: House05
+    3300008: House05.001
+    3300010: House06
+    3300012: House07.001
+    3300014: House08.001
+    3300016: House09
+    3300018: House10
+    3300020: House11
+    3300022: House12
+    3300024: House13
+    3300026: House14
+    3300028: House15.001
+    3300030: House16
+    3300032: House17
+    3300034: House18
+    3300036: House19
+    3300038: House20
+    3300040: House_Background01
+    3300042: House_Background02
+    3300044: House_Background03
+    3300046: House_Background04.001
+    3300048: House_Background05.002
+    3300050: House_Background06
+    3300052: House_Background07
+    3300054: House_Background08
+    4300000: House00
+    4300002: House01
+    4300004: House04.002
+    4300006: House05
+    4300008: House05.001
+    4300010: House06
+    4300012: House07.001
+    4300014: House08.001
+    4300016: House09
+    4300018: House10
+    4300020: House11
+    4300022: House12
+    4300024: House13
+    4300026: House14
+    4300028: House15.001
+    4300030: House16
+    4300032: House17
+    4300034: House18
+    4300036: House19
+    4300038: House20
+    4300040: House_Background01
+    4300042: House_Background02
+    4300044: House_Background03
+    4300046: House_Background04.001
+    4300048: House_Background05.002
+    4300050: House_Background06
+    4300052: House_Background07
+    4300054: House_Background08
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pal
+    second: {fileID: 2100000, guid: 791410ab2173cc74899311248312d3d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 88619228e792f5f4e9e81090d9636c67
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 2667162729756592197
+    second: 171_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: 5411193705745201257
+    second: 171_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: -5242596015286638062
+    second: 171_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: -384026376109442980
+    second: 171_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: 7445008348599981650
+    second: 171_person|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: -3863822899662121757
+    second: 171_person|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: 2607561927207277673
+    second: 171_person|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: 3219437038785287839
+    second: 171_person|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: 8278446569155734190
+    second: 171_person|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: 7235113482016458750
+    second: 171_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: 6456189771230679915
+    second: 171_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: -3554024785602389902
+    second: 171_person|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: -1696082085829310930
+    second: 171_person|City_003_police_carAction.001
+  - first:
+      74: 6220094596202775637
+    second: 171_person|CylinderAction
+  - first:
+      74: 5764347732616820533
+    second: 171_person|CylinderAction.001
+  - first:
+      74: -2334479722126824541
+    second: 171_person|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: 1181906917733156734
+    second: 171_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: -9026687678124592170
+    second: 171_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: -1292190139675093413
+    second: 175_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: -3157393027461451078
+    second: 175_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: -5613810203009850036
+    second: 175_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: 512393542521820175
+    second: 175_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: -4027880442650368298
+    second: 175_person|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: -6128985561581850416
+    second: 175_person|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: -8615989711000681088
+    second: 175_person|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: -6408246686939474342
+    second: 175_person|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: -8396277296095928454
+    second: 175_person|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: -4740501423230871011
+    second: 175_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: -5766164130921832390
+    second: 175_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: 1855661330856659407
+    second: 175_person|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: 1863894794630810520
+    second: 175_person|City_003_police_carAction.001
+  - first:
+      74: -2572415789410290319
+    second: 175_person|CylinderAction
+  - first:
+      74: -3573905688221881421
+    second: 175_person|CylinderAction.001
+  - first:
+      74: 4220247291330273290
+    second: 175_person|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: 954432680722017424
+    second: 175_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: -8233465695410041625
+    second: 175_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: -8382236639950307528
+    second: 178_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: -4849075429510271386
+    second: 178_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: 6331802265488600839
+    second: 178_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: 1988575093311118871
+    second: 178_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: -6190396490610224454
+    second: 178_person|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: 2172853748220692193
+    second: 178_person|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: -465723796869285371
+    second: 178_person|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: -3654651997560603607
+    second: 178_person|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: -6415017529351515291
+    second: 178_person|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: 4246784957857867507
+    second: 178_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: 4034926164579145148
+    second: 178_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: -4033895307598640416
+    second: 178_person|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: 3179416774244594601
+    second: 178_person|City_003_police_carAction.001
+  - first:
+      74: 1907468385192438060
+    second: 178_person|CylinderAction
+  - first:
+      74: -3077926080960003487
+    second: 178_person|CylinderAction.001
+  - first:
+      74: 5174795476777744752
+    second: 178_person|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: -3995468935823163445
+    second: 178_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: 9079319315513839615
+    second: 178_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: -2596121937489716420
+    second: 197_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: -2478651088288065496
+    second: 197_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: 8346622403997458621
+    second: 197_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: -3798811035979790262
+    second: 197_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: -2793150698797915482
+    second: 197_person|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: -563999532788528097
+    second: 197_person|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: -4284841560119870501
+    second: 197_person|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: -3959958013320846128
+    second: 197_person|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: 4224347853375131724
+    second: 197_person|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: -924873242929245717
+    second: 197_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: -7487198405406292515
+    second: 197_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: 984477774405525846
+    second: 197_person|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: 367060679709003637
+    second: 197_person|City_003_police_carAction.001
+  - first:
+      74: -4268024573462897700
+    second: 197_person|CylinderAction
+  - first:
+      74: -1648259682429686823
+    second: 197_person|CylinderAction.001
+  - first:
+      74: -6409487313476846243
+    second: 197_person|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: 5871933895690176312
+    second: 197_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: -7464208178980952152
+    second: 197_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: 992547094243474145
+    second: 256_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: 1798129960011507491
+    second: 256_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: -3452956983249571904
+    second: 256_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: 3856524425143976266
+    second: 256_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: -5540085776086003643
+    second: 256_person|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: -6755458020089467886
+    second: 256_person|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: -140374536974351241
+    second: 256_person|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: 599387198291431301
+    second: 256_person|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: 2455853189315482611
+    second: 256_person|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: 8647804708992002976
+    second: 256_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: 1638659849419856645
+    second: 256_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: 8967654966760418222
+    second: 256_person|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: -6561503593320804905
+    second: 256_person|City_003_police_carAction.001
+  - first:
+      74: 191719556410111327
+    second: 256_person|CylinderAction
+  - first:
+      74: 4830278859276424826
+    second: 256_person|CylinderAction.001
+  - first:
+      74: 5859334144064412809
+    second: 256_person|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: -405708839769991984
+    second: 256_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: 5653154546899287839
+    second: 256_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: 8668542302735819909
+    second: 99_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: -3810795357362938680
+    second: 99_person|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: 8497081152915054556
+    second: 99_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: -4557846815065109981
+    second: 99_person|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: -4490680607826184828
+    second: 99_person|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: 7319512115713487868
+    second: 99_person|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: 2326712480753538055
+    second: 99_person|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: -951864902795812991
+    second: 99_person|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: 1140333507815387285
+    second: 99_person|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: -4781687166037078401
+    second: 99_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: -6530563812683646380
+    second: 99_person|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: 1658453570547321936
+    second: 99_person|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: 3272390412553089691
+    second: 99_person|City_003_police_carAction.001
+  - first:
+      74: 3287783008387490161
+    second: 99_person|CylinderAction
+  - first:
+      74: 2438934518102477077
+    second: 99_person|CylinderAction.001
+  - first:
+      74: -9159650076081266916
+    second: 99_person|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: -2435841929935160006
+    second: 99_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: -697287164915261150
+    second: 99_person|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: -6698733851544615745
+    second: City_003_police_car|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: -3985931097414542236
+    second: City_003_police_car|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: -8904329095019286506
+    second: City_003_police_car|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: -1152820097762875446
+    second: City_003_police_car|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: 5559673462358336870
+    second: City_003_police_car|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: 679423065124875798
+    second: City_003_police_car|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: -652857491976178900
+    second: City_003_police_car|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: -2027194013054978609
+    second: City_003_police_car|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: -5358112594163747942
+    second: City_003_police_car|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: -8367547075694360903
+    second: City_003_police_car|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: 104774048217354980
+    second: City_003_police_car|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: 2188642042545830465
+    second: City_003_police_car|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: 678759899485205394
+    second: City_003_police_car|City_003_police_carAction.001
+  - first:
+      74: 153265824742306584
+    second: City_003_police_car|CylinderAction
+  - first:
+      74: -3649290569274976445
+    second: City_003_police_car|CylinderAction.001
+  - first:
+      74: 7966919906711639376
+    second: City_003_police_car|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: 2003019446583066267
+    second: City_003_police_car|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: -1051573136322338414
+    second: City_003_police_car|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: -2824027673198121854
+    second: Cylinder.114|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: 5447558393262854212
+    second: Cylinder.114|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: 1885812980223932972
+    second: Cylinder.114|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: -4586154468862489904
+    second: Cylinder.114|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: 1438849810691923866
+    second: Cylinder.114|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: 144246137378248746
+    second: Cylinder.114|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: 104420544321603928
+    second: Cylinder.114|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: 1995579875898218384
+    second: Cylinder.114|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: -8725492835949358653
+    second: Cylinder.114|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: -8620695441429099207
+    second: Cylinder.114|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: -6073449456656687396
+    second: Cylinder.114|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: 1344780983103821121
+    second: Cylinder.114|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: 1038368393283575885
+    second: Cylinder.114|City_003_police_carAction.001
+  - first:
+      74: -1015795132419830524
+    second: Cylinder.114|CylinderAction
+  - first:
+      74: -6471416291663699677
+    second: Cylinder.114|CylinderAction.001
+  - first:
+      74: -7047659533363441432
+    second: Cylinder.114|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: 4932380697556780077
+    second: Cylinder.114|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: 136740636279648932
+    second: Cylinder.114|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: -2296609470540515379
+    second: Cylinder.115|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: 8616843390268182720
+    second: Cylinder.115|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: -6926388606835491359
+    second: Cylinder.115|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: -693474402144100258
+    second: Cylinder.115|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: -8685492348257963179
+    second: Cylinder.115|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: -2020849009878808811
+    second: Cylinder.115|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: 1911387607396403861
+    second: Cylinder.115|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: 4883950189810367893
+    second: Cylinder.115|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: 1488892598362814671
+    second: Cylinder.115|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: -3910693119233333455
+    second: Cylinder.115|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: -3621392916817798199
+    second: Cylinder.115|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: 7721303778435630598
+    second: Cylinder.115|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: -2701943349734159849
+    second: Cylinder.115|City_003_police_carAction.001
+  - first:
+      74: -3428467634526513963
+    second: Cylinder.115|CylinderAction
+  - first:
+      74: 8864316029242109314
+    second: Cylinder.115|CylinderAction.001
+  - first:
+      74: 2873726033720117620
+    second: Cylinder.115|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: -4577423865137210565
+    second: Cylinder.115|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: -21315213068598318
+    second: Cylinder.115|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  - first:
+      74: 7988439594694925965
+    second: Renderbot-human-1k-1428.001|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|ba
+  - first:
+      74: 6057296417158406810
+    second: Renderbot-human-1k-1428.001|08_person|08_person|bag_low|Take 001|BaseLayer|08_person|bag_lo
+  - first:
+      74: -3741660156247357898
+    second: Renderbot-human-1k-1428.001|110_person|110_person|bag_low|Take 001|BaseLayer|110_person
+  - first:
+      74: 3009390192679066609
+    second: Renderbot-human-1k-1428.001|110_person|110_person|bag_low|Take 001|BaseLayer|110_person|bag
+  - first:
+      74: -6560840374286758311
+    second: Renderbot-human-1k-1428.001|171_person|171_person|bag_low|Take 001|BaseLayer|171_person|bag
+  - first:
+      74: -3841688655299480151
+    second: Renderbot-human-1k-1428.001|175_person|175_person|bag_low|Take 001|BaseLayer|175_person|bag
+  - first:
+      74: -2524377472973633267
+    second: Renderbot-human-1k-1428.001|178_person|178_person|bag_low|Take 001|BaseLayer|178_person|bag
+  - first:
+      74: 5751493210673896085
+    second: Renderbot-human-1k-1428.001|197_person|197_person|bag_low|Take 001|BaseLayer|197_person|bag
+  - first:
+      74: 1732429162258354692
+    second: Renderbot-human-1k-1428.001|256_person|256_person|bag_low|Take 001|BaseLayer|256_person|bag
+  - first:
+      74: 8732827752584671150
+    second: Renderbot-human-1k-1428.001|285_person|285_person|bag_low|Take 001|BaseLayer|285_person
+  - first:
+      74: 6263760803320638614
+    second: Renderbot-human-1k-1428.001|285_person|285_person|bag_low|Take 001|BaseLayer|285_person|bag
+  - first:
+      74: -4327653841130355935
+    second: Renderbot-human-1k-1428.001|99_person|99_person|bag_low|Take 001|BaseLayer|99_person|bag_lo
+  - first:
+      74: -4287235842529547543
+    second: Renderbot-human-1k-1428.001|City_003_police_carAction.001
+  - first:
+      74: -7617700930948556566
+    second: Renderbot-human-1k-1428.001|CylinderAction
+  - first:
+      74: -7210317378894837433
+    second: Renderbot-human-1k-1428.001|CylinderAction.001
+  - first:
+      74: -4197500560597745002
+    second: Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|Renderbot-human-1k-1428.001|bag_low
+  - first:
+      74: -607102945516941876
+    second: Renderbot-human-1k-1428.001|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_l
+  - first:
+      74: 1523996256235124777
+    second: Renderbot-human-1k-1428.001|Renderbot-human-1k-240.001|Renderbot-human-1k-240.001|bag_low|T
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 7c4d440f3d3e88143bcfb1cf87f3b0f3
+timeCreated: 1666547291
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1 RollsRoyce
+    100002: 1 RollsRoyce.000
+    100004: 1 RollsRoyce.001
+    100006: 1 RollsRoyce.002
+    100008: //RootNode
+    100010: RollsRoyce.0
+    400000: 1 RollsRoyce
+    400002: 1 RollsRoyce.000
+    400004: 1 RollsRoyce.001
+    400006: 1 RollsRoyce.002
+    400008: //RootNode
+    400010: RollsRoyce.0
+    2300000: 1 RollsRoyce
+    2300002: 1 RollsRoyce.000
+    2300004: 1 RollsRoyce.001
+    2300006: 1 RollsRoyce.002
+    2300008: RollsRoyce.0
+    3300000: 1 RollsRoyce
+    3300002: 1 RollsRoyce.000
+    3300004: 1 RollsRoyce.001
+    3300006: 1 RollsRoyce.002
+    3300008: RollsRoyce.0
+    4300000: 1 RollsRoyce
+    4300002: 1 RollsRoyce.000
+    4300004: 1 RollsRoyce.001
+    4300006: 1 RollsRoyce.002
+    4300008: RollsRoyce.0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROLLSROYCE_A
+    second: {fileID: 2100000, guid: 600329cb59ee14d488d7d6dfd2549566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROLLSROYCE_B
+    second: {fileID: 2100000, guid: 4e1f8bbf298a6b94984617c40f164b28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROLLSROYCE_D
+    second: {fileID: 2100000, guid: 058c07bf6250c7b4bac54e555dbafc63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROLLSROYCE_F
+    second: {fileID: 2100000, guid: 89b994f2d66073645b7aa7d8c3b2bcd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROLLSROYCE_F.000
+    second: {fileID: 2100000, guid: 68e34e314df48fa41bc1a49f5acc9a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROLLSROYCE_V
+    second: {fileID: 2100000, guid: e376252943be7d043b7ef157910c0076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RollsRoyceWh
+    second: {fileID: 2100000, guid: ecb182fe32cb6a0438bf984d927b3825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RollsRoyceWh.000
+    second: {fileID: 2100000, guid: 8607b20f817300a4eae3ceb51f3e8eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RollsRoyceWh.001
+    second: {fileID: 2100000, guid: e344a3a0c2323084fbcd5c6414ecacf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RollsRoyceWh.002
+    second: {fileID: 2100000, guid: 77de0e92b2f300f4e814daf579fcb8a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 08f51a7c27c34c24a87a2315e29ee256
+timeCreated: 1666546714
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bush
+    100002: BushL
+    100004: Camera
+    100006: FloverpotR
+    100008: FlowerpotL
+    100010: Flowers
+    100012: Foliage
+    100014: Foliage.001
+    100016: Foliage.002
+    100018: Foliage.003
+    100020: Grass
+    100022: //RootNode
+    100024: House
+    100026: Light
+    100028: Pine
+    100030: Tree
+    100032: Tree.001
+    100034: Tree.002
+    100036: Windows
+    100038: Windows.001
+    100040: Windows.002
+    100042: Windows.003
+    100044: Windows.004
+    100046: Windows.005
+    100048: Windows.006
+    100050: Windows.007
+    400000: Bush
+    400002: BushL
+    400004: Camera
+    400006: FloverpotR
+    400008: FlowerpotL
+    400010: Flowers
+    400012: Foliage
+    400014: Foliage.001
+    400016: Foliage.002
+    400018: Foliage.003
+    400020: Grass
+    400022: //RootNode
+    400024: House
+    400026: Light
+    400028: Pine
+    400030: Tree
+    400032: Tree.001
+    400034: Tree.002
+    400036: Windows
+    400038: Windows.001
+    400040: Windows.002
+    400042: Windows.003
+    400044: Windows.004
+    400046: Windows.005
+    400048: Windows.006
+    400050: Windows.007
+    2000000: Camera
+    2300000: Bush
+    2300002: BushL
+    2300004: FloverpotR
+    2300006: FlowerpotL
+    2300008: Flowers
+    2300010: Foliage
+    2300012: Foliage.001
+    2300014: Foliage.002
+    2300016: Foliage.003
+    2300018: Grass
+    2300020: House
+    2300022: Pine
+    2300024: Tree
+    2300026: Tree.001
+    2300028: Tree.002
+    2300030: Windows
+    2300032: Windows.001
+    2300034: Windows.002
+    2300036: Windows.003
+    2300038: Windows.004
+    2300040: Windows.005
+    2300042: Windows.006
+    2300044: Windows.007
+    3300000: Bush
+    3300002: BushL
+    3300004: FloverpotR
+    3300006: FlowerpotL
+    3300008: Flowers
+    3300010: Foliage
+    3300012: Foliage.001
+    3300014: Foliage.002
+    3300016: Foliage.003
+    3300018: Grass
+    3300020: House
+    3300022: Pine
+    3300024: Tree
+    3300026: Tree.001
+    3300028: Tree.002
+    3300030: Windows
+    3300032: Windows.001
+    3300034: Windows.002
+    3300036: Windows.003
+    3300038: Windows.004
+    3300040: Windows.005
+    3300042: Windows.006
+    3300044: Windows.007
+    4300000: House
+    4300002: Windows
+    4300004: Windows.001
+    4300006: Windows.002
+    4300008: Windows.003
+    4300010: Windows.004
+    4300012: Windows.005
+    4300014: Windows.006
+    4300016: Windows.007
+    4300018: Bush
+    4300020: FloverpotR
+    4300022: BushL
+    4300024: FlowerpotL
+    4300026: Grass
+    4300028: Tree
+    4300030: Foliage.001
+    4300032: Foliage.002
+    4300034: Tree.001
+    4300036: Foliage.003
+    4300038: Foliage
+    4300040: Pine
+    4300042: Tree.002
+    4300044: Flowers
+    10800000: Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 1ab4aed35d54bd74babf92e57c9f3edf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

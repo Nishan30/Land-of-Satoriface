@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: b68d65ddb00dc67468ac6db1674a11a4
+timeCreated: 1666457526
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Basketball
+    100004: Basketball Terrain
+    100006: Cube
+    100008: Cube.001
+    100010: Cube.002
+    100012: Cube.003
+    100014: Head
+    100016: Head 1
+    100018: Head_end
+    100020: Head_end 1
+    100022: LFoot
+    100024: LFoot 1
+    100026: LFoot_end
+    100028: LFoot_end 1
+    100030: LHand
+    100032: LHand 1
+    100034: LHand_end
+    100036: LHand_end 1
+    100038: Player1
+    100040: Player2
+    100042: RFoot
+    100044: RFoot 1
+    100046: RFoot_end
+    100048: RFoot_end 1
+    100050: RHand
+    100052: RHand 1
+    100054: RHand_end
+    100056: RHand_end 1
+    100058: Torso
+    100060: Torso 1
+    100062: Waist
+    100064: Waist 1
+    400000: //RootNode
+    400002: Basketball
+    400004: Basketball Terrain
+    400006: Cube
+    400008: Cube.001
+    400010: Cube.002
+    400012: Cube.003
+    400014: Head
+    400016: Head 1
+    400018: Head_end
+    400020: Head_end 1
+    400022: LFoot
+    400024: LFoot 1
+    400026: LFoot_end
+    400028: LFoot_end 1
+    400030: LHand
+    400032: LHand 1
+    400034: LHand_end
+    400036: LHand_end 1
+    400038: Player1
+    400040: Player2
+    400042: RFoot
+    400044: RFoot 1
+    400046: RFoot_end
+    400048: RFoot_end 1
+    400050: RHand
+    400052: RHand 1
+    400054: RHand_end
+    400056: RHand_end 1
+    400058: Torso
+    400060: Torso 1
+    400062: Waist
+    400064: Waist 1
+    2300000: Basketball
+    2300002: Basketball Terrain
+    2300004: Cube
+    2300006: Cube.003
+    3300000: Basketball
+    3300002: Basketball Terrain
+    3300004: Cube
+    3300006: Cube.003
+    4300000: Basketball
+    4300002: Cube.002
+    4300004: Cube.001
+    4300006: Basketball Terrain
+    4300008: Cube
+    4300010: Cube.003
+    9500000: //RootNode
+    13700000: Cube.001
+    13700002: Cube.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt
+    second: {fileID: 2100000, guid: 57703c7930424984db1d120c2cab933b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backboard
+    second: {fileID: 2100000, guid: c7e5ed05b7f57644991c7d3ab5a42ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bag
+    second: {fileID: 2100000, guid: e43c54d2a9c2b2f4e88cbf670cf0871e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bag2
+    second: {fileID: 2100000, guid: 20f0213d560a4a84693341f9787726de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ball
+    second: {fileID: 2100000, guid: 91441aea36192bf4592f5b056fe2bb60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ball lines
+    second: {fileID: 2100000, guid: b8c1d9ee04afb7743a651e93d30d084d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basketball floor_
+    second: {fileID: 2100000, guid: 39499c07afd7dcd498af3838321dbc2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Team
+    second: {fileID: 2100000, guid: c572ca93f25949549a898063c0108ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clothes
+    second: {fileID: 2100000, guid: f7d8907e6a7938f4ea55713e7a9a1554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor lines
+    second: {fileID: 2100000, guid: a23fc936c3aa3674187209adf16237ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle
+    second: {fileID: 2100000, guid: 964db7a42a8870f44a556f23cf1df253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle2
+    second: {fileID: 2100000, guid: b4b3afc7c93ad8a45ba68e51db203e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: f95dd3a23751d904dafdcc94e405837e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net
+    second: {fileID: 2100000, guid: 0e497a94a6f589a40b30be618ac28ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Team
+    second: {fileID: 2100000, guid: f9ae89c7563f5d54f85feffee5ce0779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ring
+    second: {fileID: 2100000, guid: 272dfdaba21c455479130f4f2e2503c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock
+    second: {fileID: 2100000, guid: 61b46663208ac5f4cae057f22e0301f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoes
+    second: {fileID: 2100000, guid: 950f38b437c374945aa261a0f0a6a0dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: d86f320f231e8ef4d98e981df2d2e5fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trash
+    second: {fileID: 2100000, guid: 06c9e57530bf97e479d5a9526c3d4613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trashbag
+    second: {fileID: 2100000, guid: fa807dde5ff66af45b17189a9fbbd9f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trashcan
+    second: {fileID: 2100000, guid: a4a7041b902a7af47b29d496eea032c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 10f7421afed56924ca458ff77a2dfacb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

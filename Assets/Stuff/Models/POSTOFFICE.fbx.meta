@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 79f3bdd2de521eb48b07c21d80b256d9
+timeCreated: 1666727329
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box690
+    100002: Box691
+    100004: Box692
+    100006: Box693
+    100008: Box694
+    100010: Box695
+    100012: Box696
+    100014: Box697
+    100016: Box698
+    100018: Box699
+    100020: Box700
+    100022: Box701
+    100024: Box702
+    100026: Box703
+    100028: Box704
+    100030: Box705
+    100032: Box706
+    100034: Box707
+    100036: Box708
+    100038: Box709
+    100040: Box710
+    100042: cacto059
+    100044: cacto060
+    100046: cacto061
+    100048: cacto062
+    100050: cacto063
+    100052: cacto064
+    100054: cacto065
+    100056: Camera002
+    100058: Camera002.Target
+    100060: Capsule171
+    100062: Capsule172
+    100064: Capsule173
+    100066: Capsule174
+    100068: Capsule175
+    100070: Capsule176
+    100072: Capsule177
+    100074: Capsule178
+    100076: Capsule179
+    100078: Capsule180
+    100080: Capsule181
+    100082: Capsule182
+    100084: Capsule183
+    100086: Capsule184
+    100088: Capsule185
+    100090: Capsule186
+    100092: Cylinder053
+    100094: Group028
+    100096: Group029
+    100098: Group030
+    100100: Group031
+    100102: Group032
+    100104: Group033
+    100106: Group034
+    100108: Object043
+    100110: Object044
+    100112: Object045
+    100114: Object046
+    100116: Object047
+    100118: Object048
+    100120: Object049
+    100122: Object050
+    100124: Object051
+    100126: Plane087
+    100128: Plane088
+    100130: Plane089
+    100132: //RootNode
+    100134: Text009
+    400000: Box690
+    400002: Box691
+    400004: Box692
+    400006: Box693
+    400008: Box694
+    400010: Box695
+    400012: Box696
+    400014: Box697
+    400016: Box698
+    400018: Box699
+    400020: Box700
+    400022: Box701
+    400024: Box702
+    400026: Box703
+    400028: Box704
+    400030: Box705
+    400032: Box706
+    400034: Box707
+    400036: Box708
+    400038: Box709
+    400040: Box710
+    400042: cacto059
+    400044: cacto060
+    400046: cacto061
+    400048: cacto062
+    400050: cacto063
+    400052: cacto064
+    400054: cacto065
+    400056: Camera002
+    400058: Camera002.Target
+    400060: Capsule171
+    400062: Capsule172
+    400064: Capsule173
+    400066: Capsule174
+    400068: Capsule175
+    400070: Capsule176
+    400072: Capsule177
+    400074: Capsule178
+    400076: Capsule179
+    400078: Capsule180
+    400080: Capsule181
+    400082: Capsule182
+    400084: Capsule183
+    400086: Capsule184
+    400088: Capsule185
+    400090: Capsule186
+    400092: Cylinder053
+    400094: Group028
+    400096: Group029
+    400098: Group030
+    400100: Group031
+    400102: Group032
+    400104: Group033
+    400106: Group034
+    400108: Object043
+    400110: Object044
+    400112: Object045
+    400114: Object046
+    400116: Object047
+    400118: Object048
+    400120: Object049
+    400122: Object050
+    400124: Object051
+    400126: Plane087
+    400128: Plane088
+    400130: Plane089
+    400132: //RootNode
+    400134: Text009
+    2000000: Camera002
+    2300000: Box690
+    2300002: Box691
+    2300004: Box692
+    2300006: Box693
+    2300008: Box694
+    2300010: Box695
+    2300012: Box696
+    2300014: Box697
+    2300016: Box698
+    2300018: Box699
+    2300020: Box700
+    2300022: Box701
+    2300024: Box702
+    2300026: Box703
+    2300028: Box704
+    2300030: Box705
+    2300032: Box706
+    2300034: Box707
+    2300036: Box708
+    2300038: Box709
+    2300040: Box710
+    2300042: Capsule171
+    2300044: Capsule172
+    2300046: Capsule173
+    2300048: Capsule174
+    2300050: Capsule175
+    2300052: Capsule176
+    2300054: Capsule177
+    2300056: Capsule178
+    2300058: Capsule179
+    2300060: Capsule180
+    2300062: Capsule181
+    2300064: Capsule182
+    2300066: Capsule183
+    2300068: Capsule184
+    2300070: Capsule185
+    2300072: Capsule186
+    2300074: Cylinder053
+    2300076: Object043
+    2300078: Object044
+    2300080: Object045
+    2300082: Object046
+    2300084: Object047
+    2300086: Object048
+    2300088: Object049
+    2300090: Object050
+    2300092: Object051
+    2300094: Plane087
+    2300096: Plane088
+    2300098: Plane089
+    2300100: Text009
+    3300000: Box690
+    3300002: Box691
+    3300004: Box692
+    3300006: Box693
+    3300008: Box694
+    3300010: Box695
+    3300012: Box696
+    3300014: Box697
+    3300016: Box698
+    3300018: Box699
+    3300020: Box700
+    3300022: Box701
+    3300024: Box702
+    3300026: Box703
+    3300028: Box704
+    3300030: Box705
+    3300032: Box706
+    3300034: Box707
+    3300036: Box708
+    3300038: Box709
+    3300040: Box710
+    3300042: Capsule171
+    3300044: Capsule172
+    3300046: Capsule173
+    3300048: Capsule174
+    3300050: Capsule175
+    3300052: Capsule176
+    3300054: Capsule177
+    3300056: Capsule178
+    3300058: Capsule179
+    3300060: Capsule180
+    3300062: Capsule181
+    3300064: Capsule182
+    3300066: Capsule183
+    3300068: Capsule184
+    3300070: Capsule185
+    3300072: Capsule186
+    3300074: Cylinder053
+    3300076: Object043
+    3300078: Object044
+    3300080: Object045
+    3300082: Object046
+    3300084: Object047
+    3300086: Object048
+    3300088: Object049
+    3300090: Object050
+    3300092: Object051
+    3300094: Plane087
+    3300096: Plane088
+    3300098: Plane089
+    3300100: Text009
+    4300000: Box690
+    4300002: Box691
+    4300004: Box692
+    4300006: Box693
+    4300008: Box694
+    4300010: Box695
+    4300012: Box696
+    4300014: Box697
+    4300016: Box698
+    4300018: Box699
+    4300020: Box700
+    4300022: Box701
+    4300024: Object045
+    4300026: Box702
+    4300028: Object046
+    4300030: Box703
+    4300032: Object047
+    4300034: Box704
+    4300036: Object048
+    4300038: Box705
+    4300040: Object049
+    4300042: Box706
+    4300044: Object050
+    4300046: Box707
+    4300048: Object051
+    4300050: Object043
+    4300052: Object044
+    4300054: Plane087
+    4300056: Plane088
+    4300058: Plane089
+    4300060: Text009
+    4300062: Capsule173
+    4300064: Capsule174
+    4300066: Capsule175
+    4300068: Capsule171
+    4300070: Capsule172
+    4300072: Box708
+    4300074: Box709
+    4300076: Box710
+    4300078: Capsule178
+    4300080: Capsule179
+    4300082: Capsule180
+    4300084: Capsule176
+    4300086: Capsule177
+    4300088: Capsule181
+    4300090: Capsule182
+    4300092: Capsule183
+    4300094: Capsule184
+    4300096: Cylinder053
+    4300098: Capsule185
+    4300100: Capsule186
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 27a7d8d77dfde3943bfca731ccef15c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 989c915cd8e44694e96f8108d38da920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 8ef1137070ff7f1499973e0a4f3f6b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: ef3d23324312998429d41b01f83c60b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: e72aa6902733bd248871f7b5a2601cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: a12e945f10a876444b48807533152a75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: f7f4549f34147b741af898bff34b943f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: ace3bed15aadabc428f23644f45d5078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23 - Default
+    second: {fileID: 2100000, guid: 86758810bbc89b34ba31f23e2bc248db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #44'
+    second: {fileID: 2100000, guid: 737751c9ede7ac247bcaf76d7e5bf01f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 5aef661b2cd79e747b892e1704c92eb7
+timeCreated: 1666208513
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: G_antena
+    100002: G_arbol
+    100004: G_arbusto002
+    100006: G_arbusto003
+    100008: G_arbusto004
+    100010: G_arbusto01
+    100012: G_casa
+    100014: G_cerca114
+    100016: G_chimenea
+    100018: G_garage
+    100020: G_ladrillo002
+    100022: G_ladrillo003
+    100024: G_ladrillo004
+    100026: G_ladrillo005
+    100028: G_ladrillo006
+    100030: G_ladrillo007
+    100032: G_ladrillo1
+    100034: G_muro
+    100036: G_perilla
+    100038: G_perilla003
+    100040: G_perilla004
+    100042: G_perilla02
+    100044: G_piso
+    100046: G_piso2
+    100048: G_piso3
+    100050: G_puerta
+    100052: G_puerta001
+    100054: G_techo2
+    100056: G_techo3
+    100058: G_timbre
+    100060: G_tronco
+    100062: G_Ventana
+    100064: G_ventana
+    100066: G_Ventana002
+    100068: G_ventana003
+    100070: G_ventana004
+    100072: G_ventana005
+    100074: G_ventana006
+    100076: G_ventana007
+    100078: G_ventana008
+    100080: G_ventana009
+    100082: G_ventana010
+    100084: G_ventana011
+    100086: G_ventana02
+    100088: //RootNode
+    400000: G_antena
+    400002: G_arbol
+    400004: G_arbusto002
+    400006: G_arbusto003
+    400008: G_arbusto004
+    400010: G_arbusto01
+    400012: G_casa
+    400014: G_cerca114
+    400016: G_chimenea
+    400018: G_garage
+    400020: G_ladrillo002
+    400022: G_ladrillo003
+    400024: G_ladrillo004
+    400026: G_ladrillo005
+    400028: G_ladrillo006
+    400030: G_ladrillo007
+    400032: G_ladrillo1
+    400034: G_muro
+    400036: G_perilla
+    400038: G_perilla003
+    400040: G_perilla004
+    400042: G_perilla02
+    400044: G_piso
+    400046: G_piso2
+    400048: G_piso3
+    400050: G_puerta
+    400052: G_puerta001
+    400054: G_techo2
+    400056: G_techo3
+    400058: G_timbre
+    400060: G_tronco
+    400062: G_Ventana
+    400064: G_ventana
+    400066: G_Ventana002
+    400068: G_ventana003
+    400070: G_ventana004
+    400072: G_ventana005
+    400074: G_ventana006
+    400076: G_ventana007
+    400078: G_ventana008
+    400080: G_ventana009
+    400082: G_ventana010
+    400084: G_ventana011
+    400086: G_ventana02
+    400088: //RootNode
+    2300000: G_antena
+    2300002: G_arbol
+    2300004: G_arbusto002
+    2300006: G_arbusto003
+    2300008: G_arbusto004
+    2300010: G_arbusto01
+    2300012: G_casa
+    2300014: G_cerca114
+    2300016: G_chimenea
+    2300018: G_garage
+    2300020: G_ladrillo002
+    2300022: G_ladrillo003
+    2300024: G_ladrillo004
+    2300026: G_ladrillo005
+    2300028: G_ladrillo006
+    2300030: G_ladrillo007
+    2300032: G_ladrillo1
+    2300034: G_muro
+    2300036: G_perilla
+    2300038: G_perilla003
+    2300040: G_perilla004
+    2300042: G_perilla02
+    2300044: G_piso
+    2300046: G_piso2
+    2300048: G_piso3
+    2300050: G_puerta
+    2300052: G_puerta001
+    2300054: G_techo2
+    2300056: G_techo3
+    2300058: G_timbre
+    2300060: G_tronco
+    2300062: G_Ventana
+    2300064: G_ventana
+    2300066: G_Ventana002
+    2300068: G_ventana003
+    2300070: G_ventana004
+    2300072: G_ventana005
+    2300074: G_ventana006
+    2300076: G_ventana007
+    2300078: G_ventana008
+    2300080: G_ventana009
+    2300082: G_ventana010
+    2300084: G_ventana011
+    2300086: G_ventana02
+    3300000: G_antena
+    3300002: G_arbol
+    3300004: G_arbusto002
+    3300006: G_arbusto003
+    3300008: G_arbusto004
+    3300010: G_arbusto01
+    3300012: G_casa
+    3300014: G_cerca114
+    3300016: G_chimenea
+    3300018: G_garage
+    3300020: G_ladrillo002
+    3300022: G_ladrillo003
+    3300024: G_ladrillo004
+    3300026: G_ladrillo005
+    3300028: G_ladrillo006
+    3300030: G_ladrillo007
+    3300032: G_ladrillo1
+    3300034: G_muro
+    3300036: G_perilla
+    3300038: G_perilla003
+    3300040: G_perilla004
+    3300042: G_perilla02
+    3300044: G_piso
+    3300046: G_piso2
+    3300048: G_piso3
+    3300050: G_puerta
+    3300052: G_puerta001
+    3300054: G_techo2
+    3300056: G_techo3
+    3300058: G_timbre
+    3300060: G_tronco
+    3300062: G_Ventana
+    3300064: G_ventana
+    3300066: G_Ventana002
+    3300068: G_ventana003
+    3300070: G_ventana004
+    3300072: G_ventana005
+    3300074: G_ventana006
+    3300076: G_ventana007
+    3300078: G_ventana008
+    3300080: G_ventana009
+    3300082: G_ventana010
+    3300084: G_ventana011
+    3300086: G_ventana02
+    4300000: G_casa
+    4300002: G_garage
+    4300004: G_chimenea
+    4300006: G_techo2
+    4300008: G_techo3
+    4300010: G_puerta
+    4300012: G_Ventana
+    4300014: G_Ventana002
+    4300016: G_ventana
+    4300018: G_ventana02
+    4300020: G_ventana003
+    4300022: G_ventana004
+    4300024: G_ventana005
+    4300026: G_antena
+    4300028: G_ventana006
+    4300030: G_piso2
+    4300032: G_piso
+    4300034: G_arbusto01
+    4300036: G_arbusto002
+    4300038: G_cerca114
+    4300040: G_muro
+    4300042: G_ladrillo1
+    4300044: G_ladrillo002
+    4300046: G_ladrillo003
+    4300048: G_ladrillo004
+    4300050: G_ladrillo005
+    4300052: G_ladrillo006
+    4300054: G_ladrillo007
+    4300056: G_tronco
+    4300058: G_arbol
+    4300060: G_arbusto003
+    4300062: G_arbusto004
+    4300064: G_perilla
+    4300066: G_perilla02
+    4300068: G_timbre
+    4300070: G_ventana007
+    4300072: G_ventana008
+    4300074: G_ventana009
+    4300076: G_ventana010
+    4300078: G_puerta001
+    4300080: G_perilla003
+    4300082: G_perilla004
+    4300084: G_piso3
+    4300086: G_ventana011
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antena
+    second: {fileID: 2100000, guid: a09d2680b715735438347a93c4d14921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbol
+    second: {fileID: 2100000, guid: 613db94a59fde6d458097cbdee8305ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbustos01
+    second: {fileID: 2100000, guid: aac0a58e4c2ef994c98a4479131d4ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbustos3
+    second: {fileID: 2100000, guid: cba254bdafd43404da0d0730ebe4a91c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cerca
+    second: {fileID: 2100000, guid: 2419fbf0c0e6d9b408a21f9340847b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chimenea
+    second: {fileID: 2100000, guid: 978cbfb6b05e11a4bbccc60341ea7e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garage
+    second: {fileID: 2100000, guid: 885a07b06d7b62b4f86a9d7d1d9efbcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ladrillo
+    second: {fileID: 2100000, guid: ed4f1d26d24fcbc47b0e111fc75d308a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #71'
+    second: {fileID: 2100000, guid: 9cccc38866fc2e4469876b2e02529517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muro
+    second: {fileID: 2100000, guid: 74ed9f300493a2348977a83685d69149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Perilla
+    second: {fileID: 2100000, guid: b3d03d8ada65d5047979d106ac948837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso
+    second: {fileID: 2100000, guid: 28a1004be833dd546aac68a71f7248ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso2
+    second: {fileID: 2100000, guid: d81c5d06969564f43a0ac2d76f32620f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso3
+    second: {fileID: 2100000, guid: 96a17ec52a06aaf43ab2985ffe946119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta
+    second: {fileID: 2100000, guid: 705ae4e97a4376c44b5746a8bc423d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta2
+    second: {fileID: 2100000, guid: 588e8d6464b89cf488a11aedd71fb7bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo2
+    second: {fileID: 2100000, guid: 2e3ed094bcc3e6543967202b072166a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Timbre
+    second: {fileID: 2100000, guid: 93f0a6f5f4d4f5944bb0276e799ddedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ventana6
+    second: {fileID: 2100000, guid: 92eaa7a825a161046b4feaeec4904a06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prueba
+    second: {fileID: 2100000, guid: ffb2fe021a4a607458a4862e0ab97838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: techo3
+    second: {fileID: 2100000, guid: 995652f60e1a3204888c538a50cb7f76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tronco
+    second: {fileID: 2100000, guid: 10d6bc0a2a332b84197cf11938a67a5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventana5
+    second: {fileID: 2100000, guid: 3296ece9bbd0bae459ffe296345343e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventanal
+    second: {fileID: 2100000, guid: a9250be4963ec2b4da95f58cb108877b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventanas
+    second: {fileID: 2100000, guid: fbad0969864789b43b9b66bd1b3c14a1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
