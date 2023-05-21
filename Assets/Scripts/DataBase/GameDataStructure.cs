@@ -13,6 +13,7 @@ public record GameDataStructure
     public ChangeableData<int> CID_Number = new();
     public ChangeableData<int> CoinConnect_Cash = new();
     public ChangeableData<int> GoldenBit = new();
+    public ChangeableData<int> Gems = new();
     public List<Item> itemsCollected = new();
     public List<Property> PropertiesCollected = new();
     public TimeSpan CLS = new();

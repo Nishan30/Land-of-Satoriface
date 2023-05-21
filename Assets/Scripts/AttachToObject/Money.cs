@@ -5,6 +5,7 @@ public class Money : MonoBehaviour
     [SerializeField] int m_money;
     [SerializeField] bool rotate;
     [SerializeField] bool goldenBit = false;
+    [SerializeField] bool gems = false;
     [SerializeField] AudioClipPreset collectAP;
     private void Start()
     {
@@ -19,9 +20,18 @@ public class Money : MonoBehaviour
         {
             collectAP.play();
             if (goldenBit)
+            {
                 MoneyManager.addGoldenBit(m_money);
+            }
+            else if(gems)
+            {
+                MoneyManager.addGems(m_money);
+            }
             else
+            {
                 MoneyManager.AddCoinConnectCash(m_money);
+            }
+                
             MoneyManager.Instance.toRotateList.Remove(transform);
             gameObject.SetActive(false);
             delayActive(3600f, gameObject);

@@ -605,7 +605,7 @@ MonoBehaviour:
   price: 20
   energyInPercentage: 20
   Needed_Coinconnect_Cash: 1
-  m_keyCode: 102
+  m_keyCode: 112
   hoursToRespawn: 2
 --- !u!1 &4835079997113419563
 GameObject:

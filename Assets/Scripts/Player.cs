@@ -4,6 +4,7 @@ using System.Collections;
 using KinematicCharacterController.Examples;
 using Photon.Pun;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -21,8 +22,9 @@ public class Player : MonoBehaviour
     }
     [SerializeField] float m_CurrentHealth, m_MaxHealth;
     [SerializeField] GameObject m_HealthBar;
+    [SerializeField] GameObject ResetButton;
     [SerializeField] ParticleSystem bloodParticle;
-    [SerializeField] AudioClipPreset hurtAP,deathAP;
+    [SerializeField] AudioClipPreset hurtAP, deathAP;
     public bool isFirstPerson;
     internal void DealDamage(float Damage)
     {
@@ -37,6 +39,9 @@ public class Player : MonoBehaviour
             IsAlive = false;
             m_Animator.Play("death");
             deathAP.play();
+            ResetButton.SetActive(true);
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
         }
     }
 
@@ -62,7 +67,7 @@ public class Player : MonoBehaviour
     float normalSpeed, YPos;
     bool IsOnCycle = false;
     PhotonView view;
-    
+
     private void Awake()
     {
         normalSpeed = m_ExampleCharacterController.MaxStableMoveSpeed;
@@ -78,6 +83,7 @@ public class Player : MonoBehaviour
         _startTime = Time.time;
         m_Animator.SetFloat("Y", 0);
         m_HealthBar = GameObject.Find("HealthBar");
+        PlayerPrefs.DeleteAll();
     }
 
     Vector3 lastCharacterPos;
@@ -85,59 +91,59 @@ public class Player : MonoBehaviour
     {
         //if (view.IsMine)
         //{
-            bool shiftPressed = false;
-            if (Input.GetKey(KeyCode.LeftShift) || IsOnCycle)
+        bool shiftPressed = false;
+        if (Input.GetKey(KeyCode.LeftShift) || IsOnCycle)
+        {
+            m_ExampleCharacterController.MaxStableMoveSpeed = sprintSpeed;
+            shiftPressed = true;
+        }
+        else
+        {
+            m_ExampleCharacterController.MaxStableMoveSpeed = normalSpeed;
+        }
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            if (!isFirstPerson)
             {
-                m_ExampleCharacterController.MaxStableMoveSpeed = sprintSpeed;
-                shiftPressed = true;
+                CharacterCamera.FollowPointFraming = new Vector3(0.09f, 0.31f, 0.76f);
+                CharacterCamera.MaxDistance = 0;
+                isFirstPerson = true;
             }
             else
             {
-                m_ExampleCharacterController.MaxStableMoveSpeed = normalSpeed;
-            }
-            if (Input.GetKeyDown(KeyCode.F))
-            {
-                if (!isFirstPerson)
-                {
-                    CharacterCamera.FollowPointFraming = new Vector3(0.09f, 0.31f, 0.76f);
-                    CharacterCamera.MaxDistance = 0;
-                    isFirstPerson = true;
-                }
-                else
-                {
-                    isFirstPerson = false;
-                    CharacterCamera.FollowPointFraming = new Vector3(-0.33f, 0.95f, -2.97f);
-                    CharacterCamera.MaxDistance = 10;
-                    CharacterCamera.DefaultDistance = 6;
-                }
-
+                isFirstPerson = false;
+                CharacterCamera.FollowPointFraming = new Vector3(-0.33f, 0.95f, -2.97f);
+                CharacterCamera.MaxDistance = 10;
+                CharacterCamera.DefaultDistance = 6;
             }
 
-            Vector3 newPos = m_player.position - lastCharacterPos;
-            lastCharacterPos = m_player.position;
+        }
 
-            if (newPos.magnitude <= 0.0001f)
+        Vector3 newPos = m_player.position - lastCharacterPos;
+        lastCharacterPos = m_player.position;
+
+        if (newPos.magnitude <= 0.0001f)
+        {
+            m_Animator.SetFloat("X", 0);
+            YPos = 0;
+        }
+        else
+        {
+            if (shiftPressed)
             {
                 m_Animator.SetFloat("X", 0);
-                YPos = 0;
+                YPos = 1;
             }
             else
             {
-                if (shiftPressed)
-                {
-                    m_Animator.SetFloat("X", 0);
-                    YPos = 1;
-                }
-                else
-                {
-                    m_Animator.SetFloat("X", 0);
-                    YPos = 0.5f;
-                }
+                m_Animator.SetFloat("X", 0);
+                YPos = 0.5f;
             }
+        }
 
-            m_Animator.SetFloat("Y", Mathf.Lerp(m_Animator.GetFloat("Y"), YPos, Time.unscaledDeltaTime * 30));
+        m_Animator.SetFloat("Y", Mathf.Lerp(m_Animator.GetFloat("Y"), YPos, Time.unscaledDeltaTime * 30));
         //}
-       
+
     }
 
     [SerializeField] AudioClipPreset jumpStartAP, jumpEndAP;
@@ -190,5 +196,9 @@ public class Player : MonoBehaviour
     {
         CharacterCamera.gameObject.SetActive(true);
         m_ExampleCharacterController.gameObject.SetActive(true);
+    }
+    public void Restart()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

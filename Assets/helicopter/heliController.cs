@@ -23,7 +23,7 @@ public class heliController : MonoBehaviour
     [SerializeField]
     float m_Distance;
     public Tradingmanager tradingManager;
-    float reductionRate = 0.1f;
+    public float reductionRate = 0.2f;
 
     // Start is called before the first frame update
     void Start()
@@ -95,6 +95,10 @@ public class heliController : MonoBehaviour
                 if (Input.GetKey(KeyCode.X))
                 {
                     rb.velocity *= 1 - reductionRate * Time.deltaTime;
+                }
+                if (Input.GetKey(KeyCode.U))
+                {
+                    GetComponent<Transform>().localEulerAngles = new Vector3(0, 0, 0);
                 }
                 if (Input.GetKeyDown(KeyCode.Space))
                 {

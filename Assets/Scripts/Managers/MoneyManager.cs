@@ -15,6 +15,7 @@ public class MoneyManager : MonoBehaviour
         StartCoroutine(rotateMoney());
         AddCoinConnectCash(0);
         addGoldenBit(0);
+        addGems(0);
     }
 
     public static void AddCoinConnectCash(int t)
@@ -24,6 +25,10 @@ public class MoneyManager : MonoBehaviour
     public static void addGoldenBit(int t)
     {
         StaticGamemanager.gameDataStructure.GoldenBit.Value += t;
+    }
+    public static void addGems(int t)
+    {
+        StaticGamemanager.gameDataStructure.Gems.Value += t;
     }
 
     IEnumerator rotateMoney()
